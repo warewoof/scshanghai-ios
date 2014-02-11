@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<calendar name="events.csv">
+
+	<event name="Teacher&apos;s Day" color="#C000FF" >
+		<date startdate="20120910" enddate="20120910" ></date>
+		<description title="Teacher&apos;s Day" ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="Mid-Autumn Festival (Moon Festival)" color="#C000FF" >
+		<date startdate="20120930" enddate="20120930" ></date>
+		<description title="Mid-Autumn Festival (Moon Festival) / 中秋节" summary="Eat mooncake, family union meal, related to the legend of Chang E" smallprint="15th day of the 8th lunar month" ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="National Day" color="#C000FF" >
+		<date startdate="20121001" enddate="20121001" ></date>
+		<description title="National Day / 国庆节" summary="Founding of PRC on October 1, 1949" ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="New Year&apos;s Day" color="#C000FF" >
+		<date startdate="20130101" enddate="20130101" ></date>
+		<description title="New Year&apos;s Day" smallprint="Holiday Dec 30 – Jan 1" ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="Spring Festival" color="#C000FF" >
+		<date text="Febrary 9 – 15" startdate="20130209" enddate="20130215" ></date>
+		<description title="Spring Festival / 春节" summary="Fireworks after midnight, visit family members." smallprint="1st day of 1st lunar month" ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="Lantern Festival" color="#C000FF" >
+		<date startdate="20130224" enddate="20130224" ></date>
+		<description title="Lantern Festival / 元宵节" summary="Lantern parade and lion dance celebrating the first full moon. Eating tangyuan. This day is also the last day of new year celebration." smallprint="15th day of 1st lunar month" ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="Qingming Festival" color="#C000FF" >
+		<date startdate="20130404" enddate="20130404" ></date>
+		<description title="Qingming Festival / 清明节" summary="Visit, clean, and make offerings at ancestral gravesites, spring outing" smallprint="At the Qingming solar term, solar longitude of 15°, 104 days after winter solstice (around 5 April).\nHoliday April 4 – 6" ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="Labour Day" color="#C000FF" >
+		<date startdate="20130501" enddate="20130503" ></date>
+		<description title="Labour Day / 劳动节" smallprint="Holiday May 1 – 3" ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="Youth Day" color="#C000FF" >
+		<date startdate="20130504" enddate="20130504" ></date>
+		<description title="Youth Day / 青年节" summary="Commemorating the May Fourth Movement" ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="Children&apos;s Day" color="#C000FF" >
+		<date startdate="20130601" enddate="20130601" ></date>
+		<description title="Children&apos;s Day / 六一儿童节" ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="Dragon Boat Festival" color="#C000FF" >
+		<date startdate="20130610" enddate="20130612" ></date>
+		<description title="Dragon Boat Festival /  端午节" summary="Dragon boat race, eat dumplings wrapped in lotus leaves Zongzi. This festival commemorates the ancient poet Qu Yuan; drink yellow rice wine, related to the White Snake Lady legend" smallprint="5th day of 5th lunar month." ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="CPC Founding Day" color="#C000FF" >
+		<date startdate="20130701" enddate="20130701" ></date>
+		<description title="CPC Founding Day / 建党节" summary="Formation of 1st National Congress on July 1921" smallprint="No holiday..." ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+	<event name="Army Day" color="#C000FF" >
+		<date startdate="20130801" enddate="20130801" ></date>
+		<description title="Army Day / 建军节" summary="Nanchang Uprising (南昌起义) on August 1, 1927" smallprint="Half day holiday for active army" ></description>
+		<location ></location>
+		<link ></link>
+	</event>
+
+</calendar>

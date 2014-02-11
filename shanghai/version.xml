@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<versioninfo>
+
+    <!-- version 1.0.1
+        - updated for App store name change
+        - removed "请您带我去" from taxi card
+        - changed product name from SCShanghai to Shanghai
+     -->
+    
+    <!-- version 1.0.2
+     - updated AppDelegate to match previously deleted 11/1 version causing iOS5 to crash
+     - updated MapViewController to match previously deleted 11/1 version causing iOS5 to crash
+     - fixed autoRotate in Child, List, and Map ViewControllers to work with iOS5
+     -->
+
+
+</versioninfo>
